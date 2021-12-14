@@ -1,5 +1,10 @@
 # cv-generator
 
+# how to add avatar in your template
+```
+copy direct link to image and paste in textarea
+```
+
 ## Project setup
 ```
 npm install
